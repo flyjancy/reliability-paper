@@ -1,4 +1,4 @@
-# Reliability Paper
+# Reliability-Aware Circuit Design
 
 Brief summary of papers in reliability-aware circuit design
 
