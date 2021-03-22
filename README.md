@@ -14,7 +14,7 @@ Brief summary of papers in reliability-aware circuit design
 | Re-using BIST for circuit aging monitoring | 2015 | ETS | reuse BIST |
 | Using programmable delay monitors for wear-out and early life failure prediction | 2020 | DATE | reuse "FAST" | 
 | An efficient method to identify critical gates under circuit aging | 2007 | ICCAD | use search algorithm to identify critical gates |
-| Representative critical-path selection for aging-induced delay monitoring | 2013 | ITC |  |
+| Representative critical-path selection for aging-induced delay monitoring | 2013 | ITC | select representative critical-path and predict delay |
 | Circuit failure prediction and its application to transistor aging | 2007 | VTS | monitor guardband violation |
 
 ### Aging Prediction
