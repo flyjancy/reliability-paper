@@ -35,6 +35,10 @@ Brief summary of papers in reliability-aware circuit design
 | On-chip droop-induced circuit delay prediction based on support-vector machines | 2015 | TCAD | SVM |
 | Towards Reliability-Aware Circuit Design in Nanoscale FinFET Technology | 2017 | ICCAD | proposed algorithm | 
 | NBTI and HCI Aging Prediction and Reliability Screening During Production Test | 2019 | TCAD | proposed algorithm |
+| Predictive error detection by on-line aging monitoring | 2010 | IOLTS |  |
+| Circuit aging prediction for low-power operation | 2009 | CICC |  |
+| Remaining useful life prediction in embedded systems using an online auto-updated machine learning based modeling | 2021 | Microelectronics Reliability |  |
+| Early Selection of Critical Paths for Reliable NBTI Aging-Delay Monitoring | 2016 | TVLSI |  |
 
 ### Design Framework
 
