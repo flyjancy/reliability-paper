@@ -17,6 +17,7 @@ Brief summary of papers in reliability-aware circuit design
 | Representative critical-path selection for aging-induced delay monitoring | 2013 | ITC | select representative critical-path and predict delay |
 | Circuit failure prediction and its application to transistor aging | 2007 | VTS | monitor guardband violation |
 | Predictive error detection by on-line aging monitoring | 2010 | IOLTS | monitor critical path delay |
+| A distributed critical-path timing monitor for a 65nm high-performance microprocessor | 2007 | ISSCC |  |
 
 ### Aging Prediction
 
