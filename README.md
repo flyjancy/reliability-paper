@@ -17,7 +17,8 @@ Brief summary of papers in reliability-aware circuit design
 | Representative critical-path selection for aging-induced delay monitoring | 2013 | ITC | select representative critical-path and predict delay |
 | Circuit failure prediction and its application to transistor aging | 2007 | VTS | monitor guardband violation |
 | Predictive error detection by on-line aging monitoring | 2010 | IOLTS | monitor critical path delay |
-| A distributed critical-path timing monitor for a 65nm high-performance microprocessor | 2007 | ISSCC |  |
+| A distributed critical-path timing monitor for a 65nm high-performance microprocessor | 2007 | ISSCC | monitor critical-path, edge detection |
+| Early Selection of Critical Paths for Reliable NBTI Aging-Delay Monitoring | 2016 | TVLSI | early selection of CPs without spatial correlation information from circuit layout |
 
 ### Aging Prediction
 
@@ -39,7 +40,6 @@ Brief summary of papers in reliability-aware circuit design
 | NBTI and HCI Aging Prediction and Reliability Screening During Production Test | 2019 | TCAD | proposed algorithm |
 | Circuit aging prediction for low-power operation | 2009 | CICC | Feature modeling, considering low-power technique |
 | Remaining useful life prediction in embedded systems using an online auto-updated machine learning based modeling | 2021 | Microelectronics Reliability | nonlinear autoregressive (NAR) neural network |
-| Early Selection of Critical Paths for Reliable NBTI Aging-Delay Monitoring | 2016 | TVLSI |  |
 
 ### Design Framework
 
