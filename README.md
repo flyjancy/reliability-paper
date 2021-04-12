@@ -20,7 +20,7 @@ Brief summary of papers in reliability-aware circuit design
 | A distributed critical-path timing monitor for a 65nm high-performance microprocessor | 2007 | ISSCC | monitor critical-path, edge detection |
 | Early Selection of Critical Paths for Reliable NBTI Aging-Delay Monitoring | 2016 | TVLSI | early selection of CPs without spatial correlation information from circuit layout |
 
-### Aging Prediction
+### Aging Analysis/Prediction
 
 | Title | Year | Published in | Brief Summary |
 | :---: | :--: | :----------: | :-----: |
@@ -40,6 +40,9 @@ Brief summary of papers in reliability-aware circuit design
 | NBTI and HCI Aging Prediction and Reliability Screening During Production Test | 2019 | TCAD | proposed algorithm |
 | Circuit aging prediction for low-power operation | 2009 | CICC | Feature modeling, considering low-power technique |
 | Remaining useful life prediction in embedded systems using an online auto-updated machine learning based modeling | 2021 | Microelectronics Reliability | nonlinear autoregressive (NAR) neural network |
+| Statistical reliability analysis under process variation and aging effects | 2009 | DAC | gate aging statistical model |
+| Optimized circuit failure prediction for aging: Practicality and promise | 2008 | ITC | Feature modeling |
+| Unintrusive aging analysis based on offline learning | 2017 | DFT |  |
 
 ### Design Framework
 
