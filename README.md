@@ -42,7 +42,7 @@ Brief summary of papers in reliability-aware circuit design
 | Remaining useful life prediction in embedded systems using an online auto-updated machine learning based modeling | 2021 | Microelectronics Reliability | nonlinear autoregressive (NAR) neural network |
 | Statistical reliability analysis under process variation and aging effects | 2009 | DAC | gate aging statistical model |
 | Optimized circuit failure prediction for aging: Practicality and promise | 2008 | ITC | Feature modeling |
-| Unintrusive aging analysis based on offline learning | 2017 | DFT |  |
+| Unintrusive aging analysis based on offline learning | 2017 | DFT | Generalized Liner Model |
 
 ### Design Framework
 
