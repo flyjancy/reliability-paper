@@ -50,4 +50,4 @@ Brief summary of papers in reliability-aware circuit design
 | :---: | :--: | :----------: | :-----: |
 | Reliability Aware Design and Lifetime Management of Computing Platforms | 2017 | TETC | A comprehensive design flow optimization method |
 | Design for reliability Tradeoffs between lifetime and performance due to electromigration | 2021 | Microelectronics Reliability | DSE towards electromigration | 
-| Reliability-and process-variation aware design of integrated circuits | 2008 | Microelectronics Reliability |  reliability-aware design for logic and memory circuits |
+| Reliability-and process-variation aware design of integrated circuits | 2008 | Microelectronics Reliability | reliability-aware design for logic and memory circuits |
