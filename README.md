@@ -5,6 +5,7 @@ Brief summary of papers in reliability-aware circuit design
 ### Survey
 | Title | Year | Published in | Brief Summary |
 | :---: | :--: | :----------: | :-----: |
+| Reliable on-chip systems in the nano-era: Lessons learnt and future trends | 2013 | DAC |  |
 
 ### Aging Monitoring
 
@@ -19,6 +20,7 @@ Brief summary of papers in reliability-aware circuit design
 | Predictive error detection by on-line aging monitoring | 2010 | IOLTS | monitor critical path delay |
 | A distributed critical-path timing monitor for a 65nm high-performance microprocessor | 2007 | ISSCC | monitor critical-path, edge detection |
 | Early Selection of Critical Paths for Reliable NBTI Aging-Delay Monitoring | 2016 | TVLSI | early selection of CPs without spatial correlation information from circuit layout |
+| Aging-and variation-aware delay monitoring using representative critical path selection | 2015 | TODAES |  |
 
 ### Aging Analysis/Prediction
 
@@ -43,6 +45,7 @@ Brief summary of papers in reliability-aware circuit design
 | Statistical reliability analysis under process variation and aging effects | 2009 | DAC | gate aging statistical model |
 | Optimized circuit failure prediction for aging: Practicality and promise | 2008 | ITC | Feature modeling |
 | Unintrusive aging analysis based on offline learning | 2017 | DFT | Generalized Liner Model |
+| Using machine learning to predict path-based slack from graph-based timing analysis | 2018 | ICCD |  |
 
 ### Design Framework
 
