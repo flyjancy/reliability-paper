@@ -7,6 +7,7 @@ Brief summary of papers in reliability-aware circuit design
 | :---: | :--: | :----------: | :-----: |
 | Reliable on-chip systems in the nano-era: Lessons learnt and future trends | 2013 | DAC | reliability concerns and techniques at hardware-level, software-level and application-level |
 | A survey of prediction and classification techniques in multicore processor systems | 2018 | TPDS | Summary prediction methods |
+| A Survey of Aging Monitors and Reconfiguration Techniques | 2020 | arXiv | Summary aging monitors | 
 
 ### Aging Monitoring
 
@@ -54,3 +55,4 @@ Brief summary of papers in reliability-aware circuit design
 | Reliability Aware Design and Lifetime Management of Computing Platforms | 2017 | TETC | A comprehensive design flow optimization method |
 | Design for reliability Tradeoffs between lifetime and performance due to electromigration | 2021 | Microelectronics Reliability | DSE towards electromigration | 
 | Reliability-and process-variation aware design of integrated circuits | 2008 | Microelectronics Reliability | reliability-aware design for logic and memory circuits |
+| Reliability-Enhanced Circuit Design Flow Based on Approximate Logic Synthesis | 2020 | GLSVLSI | A reliability-enhanced design framework based on approximate synthesis |
