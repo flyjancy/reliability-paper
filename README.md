@@ -47,6 +47,9 @@ Brief summary of papers in reliability-aware circuit design
 | Statistical reliability analysis under process variation and aging effects | 2009 | DAC | gate aging statistical model |
 | Optimized circuit failure prediction for aging: Practicality and promise | 2008 | ITC | Feature modeling |
 | Unintrusive aging analysis based on offline learning | 2017 | DFT | Generalized Liner Model |
+| A Novel NBTI-Aware Chip Remaining Lifetime Prediction Framework Using Machine Learning | 2021 | ISQED | KNN, RF, SVM, DT, SGD, NB, EN |
+| Aging-Aware Gate-Level Modeling for Circuit Reliability Analysis | 2021 | IEEE Transactions on Electron Devices | multivariate adaptive regression splines(MARS) |
+| Real-Time IC Aging Prediction via On-Chip Sensors | 2021 | ISVLSI | multivariate adaptive regression splines(MARS) |
 
 ### Design Framework
 
